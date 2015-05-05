@@ -3,9 +3,9 @@
 
 % The Matlab Code for the ICML 2015 paper 
 % "Scalable Deep Poisson Factor Analysis for Topic Modeling"
-% Code written by: Zhe Gan (zhe.gan@duke.edu), 
-% Changyou Chen (cchangyou@gmail.com), Ricardo Henao, 
-% David Carlson, Duke University, ECE department, 5.4.2015.
+% Code written by: Zhe Gan (zhe.gan@duke.edu), Changyou Chen (cchangyou@gmail.com),
+% Ricardo Henao (ricardo.henao@duke.edu), David Carlson (david.carlson@duke.edu), 
+% Duke University, ECE department.
 
 % License
 % Please note that this code should be used at your own risk. 
