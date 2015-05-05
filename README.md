@@ -11,6 +11,8 @@ Duke University, ECE department.
 ## Introduction
 
 This code implement the deep Poisson factor analysis (DPFA), from the 2015 ICML paper with the same title. 
+This source code is made publicly available for reproducibility purposes, it is not optimized for speed, 
+minimally documented but fully functional.
 
 I didn't try to integrate the codes, so each dataset has a separate file...
 
