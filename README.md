@@ -25,7 +25,7 @@ not do anything stupid. Permission is granted to use and modify the code.
 
 Please cite our ICML paper in your publications if it helps your research:
 
-    @inproceedings{Gan15dpfa,
+    @inproceedings{DPFA_ICML2015,
       Author = {Z. Gan, C. Chen, R. Henao, D. Carlson, and L. Carin},
       Title = {Scalable Deep Poisson Factor Analysis for Topic Modeling},
       booktitle={ICML},
