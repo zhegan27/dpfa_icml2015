@@ -2,11 +2,9 @@
 
 The Matlab Code for the ICML 2015 paper "Scalable Deep Poisson Factor Analysis for Topic Modeling"
 
-Repo created by Zhe Gan (zhe.gan@duke.edu), 5.4.2015.
-
-Code written by: Zhe Gan (zhe.gan@duke.edu), Changyou Chen (cchangyou@gmail.com),
+Zhe Gan (zhe.gan@duke.edu), Changyou Chen (cchangyou@gmail.com),
 Ricardo Henao (ricardo.henao@duke.edu), David Carlson (david.carlson@duke.edu), 
-Duke University, ECE department.
+Duke University, ECE department, 5.4.2015.
 
 ## Introduction
 
@@ -35,7 +33,7 @@ Please cite our ICML paper in your publications if it helps your research:
 ## Data
 	
 The 20news and RCV2 dataset we used can be downloaded from 
-https://www.dropbox.com/sh/ijs65v304ukn1et/AADThX7PDLwD0qw3jMBPiFVza?dl=0
+https://drive.google.com/drive/u/0/folders/0B1HR6m3IZSO_WkdFWTdVU1JjMWM
 
 The WIKI dataset are downloaded using scripts provided in Hoffman et al. (2010).
 
